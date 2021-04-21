@@ -7,6 +7,7 @@
 - 📌 Living in Taboão da Serra - São Paulo.
 
 #### 🚀"" The pleasures arising from thinking and learning will make us think and learn all the more." - Aristotle.
+- <a href="https://www.linkedin.com/in/danielelealll/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--
 **danielelealll/danielelealll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
