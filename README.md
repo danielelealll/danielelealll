@@ -1,4 +1,6 @@
-### Hello world!!! I'm Daniele Leal 👋
+# Hello world!!! I'm Daniele Leal 👋
+
+## A new crew member entering the knowledge of languages and information technologies!! ✨⚡
 
 <!--
 **danielelealll/danielelealll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
