@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello world!!! I'm Daniele Leal 👋
 
 <!--
 **danielelealll/danielelealll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## A new crew member entering the knowledge of languages and information technologies!! ✨⚡
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
