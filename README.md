@@ -6,7 +6,7 @@
 - 📚 Studying Bootcamp at Generation Brasil | Full stack developer.
 - 📌 Living in Taboão da Serra - São Paulo.
 
-🚀#### "" The pleasures arising from thinking and learning will make us think and learn all the more." - Aristotle.
+#### 🚀"" The pleasures arising from thinking and learning will make us think and learn all the more." - Aristotle.
 <!--
 **danielelealll/danielelealll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
