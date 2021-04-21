@@ -1,4 +1,4 @@
-# Hello world!!! I'm Daniele Leal 👋
+# Hello, world!!! I'm Daniele Leal 👋
 
 ### A new crew member entering the knowledge of languages and information technologies!! ✨⚡
 
