@@ -1,6 +1,6 @@
 # Hello, world!!! I'm Daniele Leal 👋
 
-<img align="right" width="600px" src="https://github.com/danielelealll/danielelealll/blob/main/tenor.gif">
+<img align="right" width="300px" src="https://github.com/danielelealll/danielelealll/blob/main/tenor.gif">
 
 ### A new crew member entering the knowledge of languages and information technologies!! ✨⚡
 
