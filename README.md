@@ -1,5 +1,7 @@
 # Hello, world!!! I'm Daniele Leal 👋
 
+<img align="right" width="400px" src="https://github.com/danielelealll/danielelealll/blob/main/tenor.gif">
+
 ### A new crew member entering the knowledge of languages and information technologies!! ✨⚡
 
 - 🎓 Graduated in Geography from the University of São Paulo (USP).
