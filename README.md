@@ -1,4 +1,4 @@
-# Hello, world!!! I'm Daniele Leal 👋�
+# Hello, world!!! I'm Daniele Leal 👋
 
 <img align="right" width="300px" src="https://github.com/danielelealll/danielelealll/blob/main/tenor.gif">
 
