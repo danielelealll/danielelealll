@@ -5,7 +5,6 @@
 ### A new crew member entering the knowledge of languages and information technologies!! ✨⚡
 
 - 🎓 Graduated in Geography from the University of São Paulo (USP).
-- 📚 Studying Bootcamp at Generation Brasil | Full stack developer.
 - 📌 Living in Taboão da Serra - São Paulo.
 #### 🚀"" The pleasures arising from thinking and learning will make us think and learn all the more." - Aristotle.
 
